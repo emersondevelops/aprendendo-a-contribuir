@@ -12,3 +12,4 @@ Deixe seu nome abaixo com um hiperlink para seu perfil no Github, divulgando par
 **Contribuidores:**
 
 - [Emerson Bezerra](https://github.com/emersondevelops/)
+- [Loan Matteus](https://github.com/loanmatteusz/)

@@ -14,3 +14,4 @@ Deixe seu nome abaixo com um hiperlink para seu perfil no Github, divulgando par
 - [Emerson Bezerra](https://github.com/emersondevelops/)
 - [Loan Matteus](https://github.com/loanmatteusz/)
 - [Vinicius Santos](https://github.com/Biniti/)
+- [Vitor Figueiredo](https://github.com/vitorfigueiredopb/)
